@@ -1,0 +1,2 @@
+# Genshin-Glyphs
+ 
