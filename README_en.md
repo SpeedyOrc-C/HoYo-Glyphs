@@ -6,39 +6,37 @@
 
 ## Intro
 
-This repository contains the fonts of the constructed writing system
+This repository contains the fonts of the fictional writing systems
 in the video game *Genshin Impact*. 
 
 ## WARNING
 
-**NOT FOR COMMERCIAL USE, OR USE IT AT YOUR OWN RISK!**
+**ONLY FOR NON-COMMERCIAL USE. USE IT AT YOUR OWN RISK!**
 
-## What do We Have yet?
+## Included Languages
 
-All the writing systems appear in the game are in the list below.
-For those with a tick, it means the font of this writing system has been made,
-which can be found in this repository. 
+All the writing systems that appeared in the game are listed below.
+A tick means the font of this writing system is ready to use from this repository. 
 
 - [ ] Mondstadt Script (Common)
 - [X] Inazuma Script
 - [X] Khænri'ah Script
 
-### What Should we Ignore?
+### Languages that We Won't Add
 
 - Ishine Script (Inazuma)
 - Liyue Script
 
-## Problems with Render?
+## Have Rendering Issues?
 
-If these fonts are rendered improperly in your apps,
-please goto Issue above, thank you.
+If you have issues with rendering, please report on [the Issue page](https://github.com/SpeedyOrc-C/Genshin-Glyphs/issues).
 
 ## Known Issues
 
 ### Inazuma Neue `v0.1.0`
 
-Some letters are from the fuzzy screenshots, so it may differ from
-the one you see in the game. These letters are:
+Some letters are from fuzzy screenshots, so they may differ from
+the ones you see in the game. These letters are:
 
 ```
 A B C D F J T W Y Z
