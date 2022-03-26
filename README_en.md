@@ -1,5 +1,7 @@
 # Genshin-Glyphs
 
+![Font Specimen](specimen.png)
+
 🌎 English | **[简体中文](README.md)**
 
 ## Intro
@@ -9,7 +11,7 @@ in the video game *Genshin Impact*.
 
 ## WARNING
 
-**NO FOR COMMERCIAL USE!**
+**NOT FOR COMMERCIAL USE, OR USE IT AT YOUR OWN RISK!**
 
 ## What do We Have yet?
 
@@ -33,7 +35,7 @@ please goto Issue above, thank you.
 
 ## Known Issues
 
-### Inazuma Script `v0.1.0`
+### Inazuma Neue `v0.1.0`
 
 Some letters are from the fuzzy screenshots, so it may differ from
 the one you see in the game. These letters are:
