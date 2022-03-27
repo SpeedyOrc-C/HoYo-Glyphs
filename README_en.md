@@ -1,19 +1,19 @@
 # Genshin-Glyphs
 
-![Font Specimen](specimen.png)
+![Image to Font Specimen](specimen.png)
 
 🌎 English | **[简体中文](README.md)**
 
 ## Intro
 
-This repository contains the fonts of the fictional writing systems
+This repository contains the fonts of the constructed writing systems
 in the video game *Genshin Impact*. 
 
-## WARNING
+## DISCLAIMER
 
 **ONLY FOR NON-COMMERCIAL USE. USE IT AT YOUR OWN RISK!**
 
-## Included Languages
+## Included Writing Systems
 
 All the writing systems that appeared in the game are listed below.
 A tick means the font of this writing system is ready to use from this repository. 
@@ -22,7 +22,7 @@ A tick means the font of this writing system is ready to use from this repositor
 - [X] Inazuma Script
 - [X] Khænri'ah Script
 
-### Languages that We Won't Add
+### Writing Systems that We Won't Add
 
 - Ishine Script (Inazuma)
 - Liyue Script
