@@ -57,7 +57,7 @@
             resize: none;
             overflow: hidden;
             width: 100%;
-            min-height: 15em;
+            min-height: 5em;
             font-size: 18px;
             box-sizing: border-box;
         }
@@ -73,6 +73,9 @@
         }
         
         @media only screen and (min-width: 769px) {
+            .input-text {
+                min-height: 15em;
+            }
             .genshin-text {
                 min-height: 5em;
             }
@@ -93,7 +96,7 @@
     <div class="wrapper">
         <div class="left">
             <h2 class="section-title">English</h2>
-            <textarea class="input-text" oninput="auto_grow(this)">Genshin-Glyphs&#13;&#10;abcdefghijklmnopqrstuvwxyz</textarea>
+            <textarea class="input-text" autofocus="autofocus" oninput="auto_grow(this)">Genshin-Glyphs&#13;&#10;abcdefghijklmnopqrstuvwxyz</textarea>
         </div>
         <div class="right">
             <h2 class="section-title">Khaenri'ah Neue</h2>
@@ -105,17 +108,17 @@
     <script>
         function auto_grow(element) {
             element.style.height = "5px";
-            element.style.height = (element.scrollHeight) + "px";
+            element.style.height = element.scrollHeight + "px";
         }
 
         function updateText() {
-            document.querySelectorAll('p').forEach(el => {
-                el.textContent = document.querySelector('textarea').value;
+            document.querySelectorAll('.genshin-text').forEach(el => {
+                el.textContent = document.querySelector('textarea').value.trimEnd();
             });
         }
 
-        document.querySelector('textarea').addEventListener('change', updateText);
-        document.querySelector('textarea').addEventListener('keyup', updateText);
+        document.querySelector('.input-text').addEventListener('change', updateText);
+        document.querySelector('.input-text').addEventListener('keyup', updateText);
         updateText();
     </script>
 </body>
