@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Genshin-Glyphs</title>
+    <style>
+        @font-face {
+            font-family: InazumaNeue;
+            src: url("InazumaNeue-Regular-0.1.0.otf") format("opentype");
+        }
+        
+        @font-face {
+            font-family: KhaenriahNeue;
+            src: url("KhaenriahNeue-Regular-1.0.0.otf") format("opentype");
+        }
+        
+        .title {
+            text-align: center;
+            font-weight: bold;
+            font-size: 1.5em;
+        }
+        
+        .section-title {
+            text-align: left;
+            font-weight: bold;
+            font-size: 1.1em;
+            margin: 0.1em 0;
+        }
+        
+        .wrapper {
+            margin: 0 auto;
+            width: 100%;
+            max-width: 1280px;
+            text-align: center;
+        }
+        
+        .wrapper>div {
+            vertical-align: top;
+        }
+        
+        @media only screen and (min-width: 769px) {
+            .left {
+                display: inline-block;
+                width: 45%;
+                margin-right: 1em;
+            }
+            .right {
+                display: inline-block;
+                width: 45%;
+            }
+        }
+        
+        .input-text {
+            resize: none;
+            overflow: hidden;
+            width: 100%;
+            min-height: 15em;
+            font-size: 18px;
+            box-sizing: border-box;
+        }
+        
+        .genshin-text {
+            display: inline-block;
+            margin: 0.1em 0 1em;
+            width: 100%;
+            font-size: 18px;
+            text-align: left;
+            white-space: pre-wrap;
+            word-break: break-all;
+        }
+        
+        @media only screen and (min-width: 769px) {
+            .genshin-text {
+                min-height: 5em;
+            }
+        }
+        
+        .inazuma-neue {
+            font-family: InazumaNeue, 宋体, 'Times New Roman', Times, serif;
+        }
+        
+        .khaenriah-neue {
+            font-family: KhaenriahNeue, 黑体, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+    </style>
+</head>
+
+<body>
+    <h1 class="title">Genshin-Glyphs</h1>
+    <div class="wrapper">
+        <div class="left">
+            <h2 class="section-title">English</h2>
+            <textarea class="input-text" oninput="auto_grow(this)">Genshin-Glyphs&#13;&#10;abcdefghijklmnopqrstuvwxyz</textarea>
+        </div>
+        <div class="right">
+            <h2 class="section-title">Khaenri'ah Neue</h2>
+            <p class="genshin-text khaenriah-neue"></p>
+            <h2 class="section-title">Inazuma Neue</h2>
+            <p class="genshin-text inazuma-neue"></p>
+        </div>
+    </div>
+    <script>
+        function auto_grow(element) {
+            element.style.height = "5px";
+            element.style.height = (element.scrollHeight) + "px";
+        }
+
+        function updateText() {
+            document.querySelectorAll('p').forEach(el => {
+                el.textContent = document.querySelector('textarea').value;
+            });
+        }
+
+        document.querySelector('textarea').addEventListener('change', updateText);
+        document.querySelector('textarea').addEventListener('keyup', updateText);
+        updateText();
+    </script>
+</body>
+
+</html>
