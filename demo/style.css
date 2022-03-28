@@ -1,0 +1,97 @@
+@media only screen and (min-width: 769px) {
+    .left {
+        display: inline-block;
+        width: 45%;
+    }
+
+    .right {
+        display: inline-block;
+        width: 45%;
+    }
+}
+
+@font-face {
+    font-family: InazumaNeue;
+    src: url("../font/InazumaNeue/InazumaNeue-Regular-0.2.0.otf") format("opentype");
+}
+
+@font-face {
+    font-family: KhaenriahNeue;
+    src: url("../font/KhaenriahNeue/KhaenriahNeue-Regular-1.0.0.otf") format("opentype");
+}
+
+body {
+    background-color: rgb(248, 241, 226);
+}
+
+* {
+    font-family: Georgia, serif;
+    color: #333;
+}
+
+.left {
+    margin: 1em;
+}
+
+.right {
+    margin: 1em;
+}
+
+#title {
+    width: fit-content;
+    margin: 1em auto;
+    font-size: 2rem;
+}
+
+.section-title {
+    font-size: 1.1em;
+    margin: 0.5em 0;
+}
+
+.wrapper {
+    margin: 0 auto;
+    width: 100%;
+    max-width: 80em;
+}
+
+.wrapper>div {
+    vertical-align: middle;
+}
+
+#input-text {
+    border-radius: 0.2em;
+    background-color: #fff8;
+    padding: 1em;
+
+    overflow: hidden;
+    width: 100%;
+    min-height: 5em;
+    font-size: 1.4rem;
+    box-sizing: border-box;
+}
+
+#input-text:focus {
+    outline: none;
+}
+
+.font-name {
+    font-size: 1.6rem;
+    color: #555;
+}
+
+.font-text {
+    width: 100%;
+    font-size: 1.3rem;
+}
+
+@media only screen and (min-width: 769px) {
+    #input-text { min-height: 15em; }
+}
+
+#inazuma-neue {
+    font-family: InazumaNeue, serif;
+}
+
+#khaenriah-neue {
+    font-family: KhaenriahNeue, serif;
+}

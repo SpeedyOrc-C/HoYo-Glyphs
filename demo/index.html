@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <title>Font Demo - 字体演示</title>
+</head>
+
+<body>
+
+  <div id="title">Font Demo - 字体演示</div>
+
+  <div class="wrapper">
+
+    <div class="left">
+      <textarea id="input-text" autofocus="autofocus"></textarea>
+    </div>
+
+    <div class="right">
+      <div class="font-name">Khaenri'ah Neue</div>
+      <p id="khaenriah-neue" class="font-text"></p>
+      <div class="font-name">Inazuma Neue</div>
+      <p id="inazuma-neue" class="font-text"></p>
+    </div>
+
+  </div>
+
+  <script>
+    let inputText = document.getElementById('input-text')
+    let inazumaNeue = document.getElementById('inazuma-neue')
+    let khaenriahNeue = document.getElementById('khaenriah-neue')
+
+    inputText.value = 'The quick brown fox jumps over the lazy dog.';
+    updateText();
+
+    function updateText() {
+      inazumaNeue.textContent = inputText.value
+      khaenriahNeue.textContent = inputText.value
+    }
+
+    document.querySelector('.input-text').addEventListener('change', updateText);
+    document.querySelector('.input-text').addEventListener('keyup', updateText);
+  </script>
+
+</body>
+
+</html>
