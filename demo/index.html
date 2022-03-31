@@ -20,10 +20,12 @@
     </div>
 
     <div class="right">
-      <div class="font-name">Khaenri'ah Neue</div>
-      <p id="khaenriah-neue" class="font-text"></p>
       <div class="font-name">Inazuma Neue</div>
       <p id="inazuma-neue" class="font-text"></p>
+      <div class="font-name">Khaenri'ah Neue - Regular</div>
+      <p id="khaenriah-neue" class="font-text"></p>
+      <div class="font-name">Khaenri'ah Neue - Chasm</div>
+      <p id="khaenriah-neue-chasm" class="font-text"></p>
     </div>
 
   </div>
@@ -32,17 +34,19 @@
     let inputText = document.getElementById('input-text')
     let inazumaNeue = document.getElementById('inazuma-neue')
     let khaenriahNeue = document.getElementById('khaenriah-neue')
-
-    inputText.value = 'The quick brown fox jumps over the lazy dog.';
-    updateText();
+    let khaenriahNeueChasm = document.getElementById('khaenriah-neue-chasm')
 
     function updateText() {
       inazumaNeue.textContent = inputText.value
       khaenriahNeue.textContent = inputText.value
+      khaenriahNeueChasm.textContent = inputText.value
     }
 
-    document.querySelector('.input-text').addEventListener('change', updateText);
-    document.querySelector('.input-text').addEventListener('keyup', updateText);
+    inputText.value = 'The quick brown fox jumps over the lazy dog.';
+    updateText();
+
+    document.querySelector('#input-text').addEventListener('change', updateText);
+    document.querySelector('#input-text').addEventListener('keyup', updateText);
   </script>
 
 </body>

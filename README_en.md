@@ -9,7 +9,19 @@
 This repository contains the fonts of the constructed writing systems
 in the video game *Genshin Impact*. 
 
-If you want to have a glance at them just for fun, check [this link](demo/index.html).
+If you want to have a glance at them just for fun, check [this link](https://speedyorc-c.github.io/Genshin-Glyphs/demo/index.html).
+
+## How to Use?
+
+### Install
+
+Double click and install it. Before update, please remove the old one manually. 
+
+### Using Variants
+
+#### Pages
+
+![](font-variant-in-pages.png)
 
 ## DISCLAIMER
 
@@ -23,6 +35,7 @@ A tick means the font of this writing system is ready to use from this repositor
 - [ ] Mondstadt Script (Common)
 - [X] Inazuma Script
 - [X] Khaenri'ah Script
+- [X] Khaenri'ah Script - The Chasm's Variant
 
 ### Writing Systems that We Won't Add
 
@@ -35,7 +48,19 @@ If you have issues with rendering, please report on [the Issue page](https://git
 
 ## Update Log & Known Issues
 
+### Khaenri'ah Neue
+
+`v2.0.0`
+
+Added the Chasm's variant. 
+
 ### Inazuma Neue
+
+`v0.3.0`
+
+Added the letter `V`. 
+
+Letter `A`, `E`, `I`, `K`, `N`, `O`, `S` and `T` are now more condensed. 
 
 `v0.2.0`
 

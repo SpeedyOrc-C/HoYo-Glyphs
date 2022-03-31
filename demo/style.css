@@ -12,12 +12,16 @@
 
 @font-face {
     font-family: InazumaNeue;
-    src: url("../font/InazumaNeue/InazumaNeue-Regular-0.2.0.otf") format("opentype");
+    src: url("../font/InazumaNeue/InazumaNeue-Regular-0.3.0.otf") format("opentype");
 }
 
 @font-face {
     font-family: KhaenriahNeue;
-    src: url("../font/KhaenriahNeue/KhaenriahNeue-Regular-1.0.0.otf") format("opentype");
+    src: url("../font/KhaenriahNeue/KhaenriahNeue-Regular-2.0.0.otf") format("opentype");
+}
+@font-face {
+    font-family: KhaenriahNeueChasm;
+    src: url("../font/KhaenriahNeue/KhaenriahNeue-Chasm-2.0.0.otf") format("opentype");
 }
 
 body {
@@ -94,4 +98,8 @@ body {
 
 #khaenriah-neue {
     font-family: KhaenriahNeue, serif;
+}
+
+#khaenriah-neue-chasm {
+    font-family: KhaenriahNeueChasm, serif;
 }
