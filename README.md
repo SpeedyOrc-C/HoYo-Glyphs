@@ -8,7 +8,7 @@
 
 这个仓库储存了游戏《原神》中的架空文字的字体。这些字体**并非解包文件**，敬请放心使用。
 
-如果只是想随便玩一玩这些字体，可以到[这里]([demo/index.html](https://speedyorc-c.github.io/Genshin-Glyphs/demo/index.html))看看。
+如果只是想随便玩一玩这些字体，可以到[这里](https://speedyorc-c.github.io/Genshin-Glyphs/demo/index.html)看看。
 
 ## 如何使用？
 
