@@ -50,25 +50,39 @@ If you have issues with rendering, please report on [the Issue page](https://git
 
 ### Khaenri'ah Neue
 
-`v2.0.0`
+#### v2.0.0
 
 Added the Chasm's variant. 
 
 ### Inazuma Neue
 
-`v0.3.0`
+#### v0.4.0
+
+Added the letter `Q`.
+
+Reduced the size of letter `D` and `U`.
+
+According to the strokes of glyph, left and right kerning of all letters were
+adjusted, so that the glyphs with vertical stroke are closer to the character
+to the left. 
+
+#### v0.3.0
 
 Added the letter `V`. 
 
-Letter `A`, `E`, `I`, `K`, `N`, `O`, `S` and `T` are now more condensed. 
+These letters are now more condensed:
 
-`v0.2.0`
+```
+A E I K N O S T
+```
+
+#### v0.2.0
 
 Added the letter `J`, and now the letter `L` is in its right place.
 
 Letter `H` and `N` are now more condensed. 
 
-`v0.1.0`
+#### v0.1.0
 
 Some letters are from fuzzy screenshots, so they may differ from
 the ones you see in the game. These letters are:
