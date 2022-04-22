@@ -56,6 +56,10 @@ Added the Chasm's variant.
 
 ### Inazuma Neue
 
+#### v0.5.0
+
+Added the fuzzy letter `X`.
+
 #### v0.4.0
 
 Added the letter `Q`.
