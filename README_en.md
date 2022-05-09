@@ -1,4 +1,4 @@
-# Genshin Glyphs
+# Hoyo Glyphs
 
 ![Image to Font Specimen](specimen.png)
 
@@ -7,7 +7,8 @@
 ## Intro
 
 This repository contains the fonts of the constructed writing systems
-in the video game *Genshin Impact*. 
+in the video games developed by Hoyoverse. These fonts are
+**not obtained from any forms of reverse engineering to the games**. 
 
 If you want to have a glance at them just for fun, check [this link](https://speedyorc-c.github.io/Genshin-Glyphs/demo/index.html).
 
@@ -32,21 +33,44 @@ Double click and install it. Before update, please remove the old one manually.
 All the writing systems that appeared in the game are listed below.
 A tick means the font of this writing system is ready to use from this repository. 
 
+### Genshin Impact
+
 - [ ] Mondstadt Script (Common)
 - [X] Inazuma Script
 - [X] Khaenri'ah Script
 - [X] Khaenri'ah Script - The Chasm's Variant
 
+### Honkai - Star Rail
+
+- [X] Star Rail Script (temporary name)
+
+### Zenless Zone Zero
+
+- [X] ZZZ Script (temporary name)
+
 ### Writing Systems that We Won't Add
 
-- Ishine Script (Inazuma - Tsurumi)
-- Liyue Script
+- Ishine Script (Genshin Impact - Inazuma - Tsurumi)
+- Liyue Script (Genshin Impact - Liyue)
 
 ## Have Rendering Issues?
 
 If you have issues with rendering, please report on [the Issue page](https://github.com/SpeedyOrc-C/Genshin-Glyphs/issues).
 
 ## Update Log & Known Issues
+
+### Star Rail Neue
+
+#### v0.001
+
+Currently, the game has finished its 1<sup>st</sup> public test,
+the 2<sup>nd</sup> public test is in progress. 
+
+### ZZZ Neue
+
+#### v0.001
+
+Currently, there is no any public test available but the game is being promoted.
 
 ### Khaenri'ah Neue
 
