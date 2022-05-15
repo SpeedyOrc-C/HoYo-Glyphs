@@ -8,7 +8,7 @@
 
 这个仓库储存了米哈游的游戏里的架空文字的字体。这些字体**并非游戏解包文件**，敬请放心使用。
 
-如果只是想随便玩一玩这些字体，可以到[这里](https://speedyorc-c.github.io/Genshin-Glyphs/demo/index.html)看看。
+如果只是想随便玩一玩这些字体，可以到[这里](https://speedyorc-c.github.io/Hoyo-Glyphs/demo/index.html)看看。
 
 ## 如何使用？
 
@@ -57,7 +57,7 @@
 
 ## 渲染出错？
 
-如果这里的字体在您的软件中出现太大、太小或渲染出错的情况，请在[这里](https://github.com/SpeedyOrc-C/Genshin-Glyphs/issues)提出 Issue，谢谢。
+如果这里的字体在您的软件中出现太大、太小或渲染出错的情况，请在[这里](https://github.com/SpeedyOrc-C/Hoyo-Glyphs/issues)提出 Issue，谢谢。
 
 ## 更新记录与已知问题
 
@@ -68,6 +68,12 @@
 目前，该游戏已经完成第一次测试，第二次测试正在进行中。
 
 ### 绝区零文字 ZZZ Neue
+
+#### v0.002
+
+添加了字母 `C` 和 `K` 的字形。
+
+在 2022 年 5 月 13 日之后，发现这种字母包含一种变体，其中部分字形横画没有左上角的切角。
 
 #### v0.001
 

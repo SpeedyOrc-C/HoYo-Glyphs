@@ -10,7 +10,7 @@ This repository contains the fonts of the constructed writing systems
 in the video games developed by Hoyoverse. These fonts are
 **not obtained from any forms of reverse engineering to the games**. 
 
-If you want to have a glance at them just for fun, check [this link](https://speedyorc-c.github.io/Genshin-Glyphs/demo/index.html).
+If you want to have a glance at them just for fun, check [this link](https://speedyorc-c.github.io/Hoyo-Glyphs/demo/index.html).
 
 ## How to Use?
 
@@ -55,7 +55,7 @@ A tick means the font of this writing system is ready to use from this repositor
 
 ## Have Rendering Issues?
 
-If you have issues with rendering, please report on [the Issue page](https://github.com/SpeedyOrc-C/Genshin-Glyphs/issues).
+If you have issues with rendering, please report on [the Issue page](https://github.com/SpeedyOrc-C/Hoyo-Glyphs/issues).
 
 ## Update Log & Known Issues
 
@@ -67,6 +67,14 @@ Currently, the game has finished its 1<sup>st</sup> public test,
 the 2<sup>nd</sup> public test is in progress. 
 
 ### ZZZ Neue
+
+#### v0.002
+
+Added the letter `C` and `K`.
+
+After 13<sup>th</sup> May 2022, a variant of this font is discovered where
+some glyphs of which do not have a cut edge at the top-left corner of their
+horizontal strokes.
 
 #### v0.001
 
