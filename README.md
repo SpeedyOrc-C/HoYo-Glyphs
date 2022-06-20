@@ -20,11 +20,11 @@
 
 #### WPS Office
 
-![](font-variant-in-wps.png)
+![在 WPS 中使用变体](font-variant-in-wps.png)
 
 #### Pages
 
-![](font-variant-in-pages.png)
+![在苹果的 Pages 中使用变体](font-variant-in-pages.png)
 
 ## 免责声明
 
@@ -37,7 +37,7 @@
 
 ### 《原神》
 
-- [ ] 通用文字（蒙德）
+- [X] 通用文字（蒙德）
 - [X] 稻妻文字
 - [X] 坎瑞亚文字
 - [X] 坎瑞亚文字 - 层岩巨渊变体

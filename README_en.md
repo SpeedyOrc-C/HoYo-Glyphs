@@ -22,7 +22,7 @@ Double click and install it. Before update, please remove the old one manually.
 
 #### Pages
 
-![](font-variant-in-pages.png)
+![Using font variant in Apple Pages](font-variant-in-pages.png)
 
 ## DISCLAIMER
 
@@ -35,7 +35,7 @@ A tick means the font of this writing system is ready to use from this repositor
 
 ### Genshin Impact
 
-- [ ] Mondstadt Script (Common)
+- [X] Mondstadt Script (Common)
 - [X] Inazuma Script
 - [X] Khaenri'ah Script
 - [X] Khaenri'ah Script - The Chasm's Variant
