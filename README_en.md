@@ -59,6 +59,27 @@ If you have issues with rendering, please report on [the Issue page](https://git
 
 ## Update Log & Known Issues
 
+### Teyvat Neue
+
+#### v1.001
+
+Added these numbers:
+```
+0 1 2 3
+```
+Numbers currently appear in these 2 cases:
+
+1. When someone is equipped with 4 or more **Husk of Opulent Dreams**
+   artifacts. They will get a "Curiosity" effect after they make a
+   Geo attack. The maximum stack is 4, and they lose 1 stack every
+   6 seconds without making a Geo attack. When the number of stacks
+   changes, a yellow number written in Common script is shown on them.
+
+2. When **Yanfei** performs normal attack, she gets a Scarlet Seal.
+   The maximum stack is 3, and she loses all Scarlet Seals on a
+   charged attack. Later, a scarlet number written in Common script is shown
+   on her, indicating the number of Scarlet Seals consumed.
+   
 ### Star Rail Neue
 
 #### v0.001
