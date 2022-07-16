@@ -109,11 +109,21 @@ Added the Chasm's variant.
 
 ### Inazuma Neue
 
-#### v0.5.0
+#### v0.006
+
+These letters have more details now:
+```
+C D F L R T X
+```
+From Heizou.
+
+Added the bar `|`.
+
+#### v0.005
 
 Added the fuzzy letter `X`.
 
-#### v0.4.0
+#### v0.004
 
 Added the letter `Q`.
 
@@ -123,7 +133,7 @@ According to the strokes of glyph, left and right kerning of all letters were
 adjusted, so that the glyphs with vertical stroke are closer to the character
 to the left. 
 
-#### v0.3.0
+#### v0.003
 
 Added the letter `V`. 
 
@@ -133,13 +143,13 @@ These letters are now more condensed:
 A E I K N O S T
 ```
 
-#### v0.2.0
+#### v0.002
 
 Added the letter `J`, and now the letter `L` is in its right place.
 
 Letter `H` and `N` are now more condensed. 
 
-#### v0.1.0
+#### v0.001
 
 Some letters are from fuzzy screenshots, so they may differ from
 the ones you see in the game. These letters are:
