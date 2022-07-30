@@ -11,10 +11,13 @@
 }
 
 @font-face {
-    font-family: InazumaNeue;
-    src: url("../font/genshin-impact/InazumaNeue-Regular-0.005.otf") format("opentype");
+    font-family: TeyvatNeue;
+    src: url("../font/genshin-impact/TeyvatNeue-Regular-1.001.otf") format("opentype");
 }
-
+@font-face {
+    font-family: InazumaNeue;
+    src: url("../font/genshin-impact/InazumaNeue-Regular-0.006.otf") format("opentype");
+}
 @font-face {
     font-family: KhaenriahNeue;
     src: url("../font/genshin-impact/KhaenriahNeue-Regular-2.000.otf") format("opentype");
@@ -24,12 +27,12 @@
     src: url("../font/genshin-impact/KhaenriahNeue-Chasm-2.000.otf") format("opentype");
 }
 @font-face {
-    font-family: HonkaiStarRailNeue;
+    font-family: StarRailNeue;
     src: url("../font/honkai-star-rail/StarRailNeue-Regular-0.001.otf") format("opentype");
 }
 @font-face {
     font-family: ZzzNeue;
-    src: url("../font/zenless-zone-zero/ZzzNeue-Regular-0.001.otf") format("opentype");
+    src: url("../font/zenless-zone-zero/ZzzNeue-Regular-0.002.otf") format("opentype");
 }
 
 body {
@@ -100,14 +103,9 @@ body {
     #input-text { min-height: 15em; }
 }
 
-#inazuma-neue {
-    font-family: InazumaNeue, serif;
-}
-
-#khaenriah-neue {
-    font-family: KhaenriahNeue, serif;
-}
-
-#khaenriah-neue-chasm {
-    font-family: KhaenriahNeueChasm, serif;
-}
+#teyvat-neue { font-family: TeyvatNeue, serif; }
+#inazuma-neue { font-family: InazumaNeue, serif; }
+#khaenriah-neue { font-family: KhaenriahNeue, serif; }
+#khaenriah-neue-chasm { font-family: KhaenriahNeueChasm, serif; }
+#star-rail-neue { font-family: StarRailNeue, serif; }
+#zzz-neue { font-family: ZzzNeue, serif; }

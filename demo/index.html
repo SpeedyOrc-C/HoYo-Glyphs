@@ -20,26 +20,39 @@
     </div>
 
     <div class="right">
+      <div class="font-name">Teyvat Neue</div>
+      <p id="teyvat-neue" class="font-text"></p>
       <div class="font-name">Inazuma Neue</div>
       <p id="inazuma-neue" class="font-text"></p>
       <div class="font-name">Khaenri'ah Neue - Regular</div>
       <p id="khaenriah-neue" class="font-text"></p>
       <div class="font-name">Khaenri'ah Neue - Chasm</div>
       <p id="khaenriah-neue-chasm" class="font-text"></p>
+      <div class="font-name">Star Rail Neue</div>
+      <p id="star-rail-neue" class="font-text"></p>
+      <div class="font-name">ZZZ Neue</div>
+      <p id="zzz-neue" class="font-text"></p>
     </div>
 
   </div>
 
   <script>
     let inputText = document.getElementById('input-text')
+
+    let teyvatNeue = document.getElementById('teyvat-neue')
     let inazumaNeue = document.getElementById('inazuma-neue')
     let khaenriahNeue = document.getElementById('khaenriah-neue')
     let khaenriahNeueChasm = document.getElementById('khaenriah-neue-chasm')
+    let starRailNeue = document.getElementById('star-rail-neue')
+    let zzzNeue = document.getElementById('zzz-neue')
 
     function updateText() {
+      teyvatNeue.innerHTML = inputText.value
       inazumaNeue.textContent = inputText.value
       khaenriahNeue.textContent = inputText.value
       khaenriahNeueChasm.textContent = inputText.value
+      starRailNeue.textContent = inputText.value
+      zzzNeue.textContent = inputText.value
     }
 
     inputText.value = 'The quick brown fox jumps over the lazy dog.';
