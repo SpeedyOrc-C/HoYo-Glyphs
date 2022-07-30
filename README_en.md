@@ -14,6 +14,15 @@ If you want to have a glance at them just for fun, check [this link](https://spe
 
 ## How to Use?
 
+### Download (in OTF format)
+
+- [Teyvat Glyph](font/genshin-impact/TeyvatNeue-Regular-1.001.otf)
+- [Inazuma Glyph](font/genshin-impact/InazumaNeue-Regular-0.006.otf)
+- [Khaenri'ah Glyph](font/genshin-impact/KhaenriahNeue-Regular-2.000.otf)
+- [Khaenri'ah Glyph - The Chasm's Variant](font/genshin-impact/KhaenriahNeue-Chasm-2.000.otf)
+- [Honkai Star Rail Glyph](font/honkai-star-rail/StarRailNeue-Regular-0.001.otf)
+- [ZZZ Glyph](font/zenless-zone-zero/ZzzNeue-Regular-0.002.otf)
+
 ### Install
 
 Double click and install it. Before update, please remove the old one manually. 
@@ -39,6 +48,8 @@ A tick means the font of this writing system is ready to use from this repositor
 - [X] Inazuma Script
 - [X] Khaenri'ah Script
 - [X] Khaenri'ah Script - The Chasm's Variant
+- [ ] Sumeru Script (temporary name)
+- [ ] Sumeru Script - Desert's Variant (temporary name)
 
 ### Honkai - Star Rail
 

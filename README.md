@@ -12,6 +12,15 @@
 
 ## 如何使用？
 
+### 下载（OTF 格式）
+
+- [通用字母](font/genshin-impact/TeyvatNeue-Regular-1.001.otf)
+- [稻妻字母](font/genshin-impact/InazumaNeue-Regular-0.006.otf)
+- [坎瑞亚字母](font/genshin-impact/KhaenriahNeue-Regular-2.000.otf)
+- [坎瑞亚字母层岩巨渊变体](font/genshin-impact/KhaenriahNeue-Chasm-2.000.otf)
+- [星穹铁道字母](font/honkai-star-rail/StarRailNeue-Regular-0.001.otf)
+- [绝区零字母](font/zenless-zone-zero/ZzzNeue-Regular-0.002.otf)
+
 ### 安装
 
 双击直接安装即可。如果需要更新，请务必卸载旧的字体。
@@ -41,6 +50,8 @@
 - [X] 稻妻文字
 - [X] 坎瑞亚文字
 - [X] 坎瑞亚文字 - 层岩巨渊变体
+- [ ] 须弥文字（暂定）
+- [ ] 须弥文字 - 沙漠变体（暂定）
 
 ### 《崩坏·星穹铁道》
 
