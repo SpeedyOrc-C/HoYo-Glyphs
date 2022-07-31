@@ -44,7 +44,7 @@ A tick means the font of this writing system is ready to use from this repositor
 
 ### Genshin Impact
 
-- [X] Mondstadt Script (Common)
+- [X] Teyvat Script (Mondstadt)
 - [X] Inazuma Script
 - [X] Khaenri'ah Script
 - [X] Khaenri'ah Script - The Chasm's Variant
@@ -71,6 +71,12 @@ If you have issues with rendering, please report on [the Issue page](https://git
 ## Update Log & Known Issues
 
 ### Teyvat Neue
+
+### v1.002
+
+Added the number `4`.
+
+Slightly changed the number `3`.
 
 #### v1.001
 

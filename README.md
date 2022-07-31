@@ -14,7 +14,7 @@
 
 ### 下载（OTF 格式）
 
-- [通用字母](font/genshin-impact/TeyvatNeue-Regular-1.001.otf)
+- [提瓦特字母](font/genshin-impact/TeyvatNeue-Regular-1.001.otf)
 - [稻妻字母](font/genshin-impact/InazumaNeue-Regular-0.006.otf)
 - [坎瑞亚字母](font/genshin-impact/KhaenriahNeue-Regular-2.000.otf)
 - [坎瑞亚字母层岩巨渊变体](font/genshin-impact/KhaenriahNeue-Chasm-2.000.otf)
@@ -46,7 +46,7 @@
 
 ### 《原神》
 
-- [X] 通用文字（蒙德）
+- [X] 提瓦特文字（蒙德）
 - [X] 稻妻文字
 - [X] 坎瑞亚文字
 - [X] 坎瑞亚文字 - 层岩巨渊变体
@@ -72,7 +72,13 @@
 
 ## 更新记录与已知问题
 
-### 通用文字 Teyvat Neue
+### 提瓦特字母 Teyvat Neue
+
+### v1.002
+
+添加了数字 `4` 的字形。
+
+稍微修改了数字 `3` 的字形。
 
 #### v1.001
 
@@ -90,13 +96,13 @@
    在进行重击的时候，所有丹火印会被消耗。
    此时，烟绯身上将通过绯红通用文字的数字显示刚刚消耗了多少个丹火印。
 
-### 星穹铁道文字 Star Rail Neue
+### 星穹铁道字母 Star Rail Neue
 
 #### v0.001
 
 目前，该游戏已经完成第一次测试，第二次测试正在进行中。
 
-### 绝区零文字 ZZZ Neue
+### 绝区零字母 ZZZ Neue
 
 #### v0.002
 
@@ -108,13 +114,13 @@
 
 目前，该游戏的第一次测试还未开启，处于宣发阶段。
 
-### 坎瑞亚文字 Khaenri'ah Neue
+### 坎瑞亚字母 Khaenri'ah Neue
 
 #### v2.000
 
 添加了层岩巨渊变体的坎瑞亚字母。
 
-### 稻妻文字 Inazuma Neue
+### 稻妻字母 Inazuma Neue
 
 #### v0.006
 
