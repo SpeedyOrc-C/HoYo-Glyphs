@@ -31,8 +31,12 @@
     src: url("../font/honkai-star-rail/StarRailNeue-Regular-0.001.otf") format("opentype");
 }
 @font-face {
-    font-family: ZzzNeue;
-    src: url("../font/zenless-zone-zero/ZzzNeue-Regular-0.002.otf") format("opentype");
+    font-family: ZzzNeueVariantA;
+    src: url("../font/zenless-zone-zero/ZZZNeue-VariantA-0.003.otf") format("opentype");
+}
+@font-face {
+    font-family: ZzzNeueVariantB;
+    src: url("../font/zenless-zone-zero/ZZZNeue-VariantB-0.003.otf") format("opentype");
 }
 
 body {
@@ -108,4 +112,5 @@ body {
 #khaenriah-neue { font-family: KhaenriahNeue, serif; }
 #khaenriah-neue-chasm { font-family: KhaenriahNeueChasm, serif; }
 #star-rail-neue { font-family: StarRailNeue, serif; }
-#zzz-neue { font-family: ZzzNeue, serif; }
+#zzz-neue-variant-a { font-family: ZzzNeueVariantA, serif; }
+#zzz-neue-variant-b { font-family: ZzzNeueVariantB, serif; }

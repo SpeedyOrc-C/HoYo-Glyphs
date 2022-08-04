@@ -20,8 +20,9 @@ If you want to have a glance at them just for fun, check [this link](https://spe
 - [Inazuma Glyph](font/genshin-impact/InazumaNeue-Regular-0.006.otf)
 - [Khaenri'ah Glyph](font/genshin-impact/KhaenriahNeue-Regular-2.000.otf)
 - [Khaenri'ah Glyph - The Chasm's Variant](font/genshin-impact/KhaenriahNeue-Chasm-2.000.otf)
-- [Honkai Star Rail Glyph](font/honkai-star-rail/StarRailNeue-Regular-0.001.otf)
-- [ZZZ Glyph](font/zenless-zone-zero/ZzzNeue-Regular-0.002.otf)
+- [Honkai Star Rail Glyph](font/honkai-star-rail/StarRailNeue-Regular-0.002.otf)
+- [ZZZ Glyph - Variant A](font/zenless-zone-zero/ZZZNeue-VariantA-0.003.otf)
+- [ZZZ Glyph - Variant B](font/zenless-zone-zero/ZZZNeue-VariantB-0.003.otf)
 
 ### Install
 
@@ -57,7 +58,8 @@ A tick means the font of this writing system is ready to use from this repositor
 
 ### Zenless Zone Zero
 
-- [X] ZZZ Script (temporary name)
+- [X] ZZZ Script - Variant A (temporary name)
+- [X] ZZZ Script - Variant B (temporary name)
 
 ### Writing Systems that We Won't Add
 
@@ -93,18 +95,41 @@ Numbers currently appear in these 2 cases:
    changes, a yellow number written in Common script is shown on them.
 
 2. When **Yanfei** performs normal attack, she gets a Scarlet Seal.
-   The maximum stack is 3, and she loses all Scarlet Seals on a
-   charged attack. Later, a scarlet number written in Common script is shown
-   on her, indicating the number of Scarlet Seals consumed.
+   The maximum stack is 3 (4 if she got 6 constellations), and she loses all
+   Scarlet Seals on a charged attack. Later, a scarlet number written in Common
+   script is shown on her, indicating the number of Scarlet Seals consumed.
    
 ### Star Rail Neue
 
+#### v0.002
+
+The 2<sup>nd</sup> test is over, and clarity of all letters are now higher.
+
 #### v0.001
 
-Currently, the game has finished its 1<sup>st</sup> public test,
-the 2<sup>nd</sup> public test is in progress. 
+Currently, the game has finished its 1<sup>st</sup> test,
+the 2<sup>nd</sup> test is in progress. 
 
 ### ZZZ Neue
+
+#### v0.003
+
+The 1<sup>st</sup> test is in progress.
+
+Another set of letters appeared, but I have no idea about where are they used.
+
+The other one resembles the upside-down Latin letters, and they looks more
+cubic than the first set. 
+
+Added these letters to Variant A:
+```
+F V X Z
+```
+
+Added these letters to Variant B:
+```
+A B C D E F G H I K L M N O P R S T U V W X
+```
 
 #### v0.002
 

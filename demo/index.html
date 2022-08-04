@@ -30,8 +30,10 @@
       <p id="khaenriah-neue-chasm" class="font-text"></p>
       <div class="font-name">Star Rail Neue</div>
       <p id="star-rail-neue" class="font-text"></p>
-      <div class="font-name">ZZZ Neue</div>
-      <p id="zzz-neue" class="font-text"></p>
+      <div class="font-name">ZZZ Neue - Variant A</div>
+      <p id="zzz-neue-variant-a" class="font-text"></p>
+      <div class="font-name">ZZZ Neue - Variant B</div>
+      <p id="zzz-neue-variant-b" class="font-text"></p>
     </div>
 
   </div>
@@ -39,27 +41,25 @@
   <script>
     let inputText = document.getElementById('input-text')
 
-    let teyvatNeue = document.getElementById('teyvat-neue')
-    let inazumaNeue = document.getElementById('inazuma-neue')
-    let khaenriahNeue = document.getElementById('khaenriah-neue')
-    let khaenriahNeueChasm = document.getElementById('khaenriah-neue-chasm')
-    let starRailNeue = document.getElementById('star-rail-neue')
-    let zzzNeue = document.getElementById('zzz-neue')
+    let fontTexts = [
+      document.getElementById('teyvat-neue'),
+      document.getElementById('inazuma-neue'),
+      document.getElementById('khaenriah-neue'),
+      document.getElementById('khaenriah-neue-chasm'),
+      document.getElementById('star-rail-neue'),
+      document.getElementById('zzz-neue-variant-a'),
+      document.getElementById('zzz-neue-variant-b')]
 
-    function updateText() {
-      teyvatNeue.innerHTML = inputText.value
-      inazumaNeue.textContent = inputText.value
-      khaenriahNeue.textContent = inputText.value
-      khaenriahNeueChasm.textContent = inputText.value
-      starRailNeue.textContent = inputText.value
-      zzzNeue.textContent = inputText.value
-    }
-
+    updateText = () => fontTexts.forEach
+      (fontText => fontText.innerHTML = inputText.value)
+    
+      inputText.addEventListener('change', updateText);
+    inputText.addEventListener('keyup', updateText);
+    
     inputText.value = 'The quick brown fox jumps over the lazy dog.';
+
     updateText();
 
-    document.querySelector('#input-text').addEventListener('change', updateText);
-    document.querySelector('#input-text').addEventListener('keyup', updateText);
   </script>
 
 </body>

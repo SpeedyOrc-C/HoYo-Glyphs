@@ -18,8 +18,9 @@
 - [稻妻字母](font/genshin-impact/InazumaNeue-Regular-0.006.otf)
 - [坎瑞亚字母](font/genshin-impact/KhaenriahNeue-Regular-2.000.otf)
 - [坎瑞亚字母层岩巨渊变体](font/genshin-impact/KhaenriahNeue-Chasm-2.000.otf)
-- [星穹铁道字母](font/honkai-star-rail/StarRailNeue-Regular-0.001.otf)
-- [绝区零字母](font/zenless-zone-zero/ZzzNeue-Regular-0.002.otf)
+- [星穹铁道字母](font/honkai-star-rail/StarRailNeue-Regular-0.002.otf)
+- [绝区零字母一号变体](font/zenless-zone-zero/ZZZNeue-VariantA-0.003.otf)
+- [绝区零字母二号变体](font/zenless-zone-zero/ZZZNeue-VariantB-0.003.otf)
 
 ### 安装
 
@@ -59,7 +60,8 @@
 
 ### 《绝区零》
 
-- [X] 绝区零文字（暂定）
+- [X] 绝区零文字一号变体（暂定）
+- [X] 绝区零文字二号变体（暂定）
 
 ### 哪些文字不做？
 
@@ -92,17 +94,39 @@
    最多可以积累四层，若没有获得效果6秒后，将损失一层。
    层数改变时，通过黄色通用文字的数字显示在角色身上。
 
-2. **烟绯**进行普通攻击时，命中敌人后会累积丹火印，最多可以获得三个。
+2. **烟绯**进行普通攻击时，命中敌人后会累积丹火印，最多可以获得三个（六命可获得四个）。
    在进行重击的时候，所有丹火印会被消耗。
    此时，烟绯身上将通过绯红通用文字的数字显示刚刚消耗了多少个丹火印。
 
 ### 星穹铁道字母 Star Rail Neue
+
+#### v0.002
+
+第二次测试已经结束了，每个字母都变得更加清晰了。
 
 #### v0.001
 
 目前，该游戏已经完成第一次测试，第二次测试正在进行中。
 
 ### 绝区零字母 ZZZ Neue
+
+#### v0.003
+
+第一次测试正在进行中。
+
+出现了另一套字母，目前我暂不清楚这两套字母该在什么情况下使用。
+
+另一套字母的大部分字形都与上下颠倒的拉丁字母相似，且比第一套更为方正。
+
+一号变体增加了以下字母：
+```
+F V X Z
+```
+
+二号变体增加了以下字母：
+```
+A B C D E F G H I K L M N O P R S T U V W X
+```
 
 #### v0.002
 
