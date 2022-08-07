@@ -12,6 +12,8 @@ in the video games developed by Hoyoverse. These fonts are
 
 If you want to have a glance at them just for fun, check [this link](https://speedyorc-c.github.io/Hoyo-Glyphs/demo/index.html).
 
+Get the alphabet [here](doc/Hoyo-Glyphs-alphabet.pdf).
+
 ## How to Use?
 
 ### Download (in OTF format)

@@ -10,6 +10,8 @@
 
 如果只是想随便玩一玩这些字体，可以到[这里](https://speedyorc-c.github.io/Hoyo-Glyphs/demo/index.html)看看。
 
+在[这里](doc/Hoyo-Glyphs-alphabet.pdf)获取字母表。
+
 ## 如何使用？
 
 ### 下载（OTF 格式）
