@@ -76,7 +76,7 @@ If you have issues with rendering, please report on [the Issue page](https://git
 
 ### Teyvat Neue
 
-### v1.002
+#### v1.002
 
 Added the number `4`.
 
