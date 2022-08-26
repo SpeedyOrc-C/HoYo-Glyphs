@@ -21,10 +21,17 @@
 
 ## 使用变体
 
+### Microsoft Office
+
+在这里，字体变体不会显示，而是将每个变体显示为独立的字体。
+另外，也不会以中文来显示字体名称，而是使用英语。
+
+![在 Microsoft Office 中使用变体](font-variant-in-ms-office.png)
+
 ### WPS Office
 
 ![在 WPS 中使用变体](font-variant-in-wps.png)
 
-### Pages
+### Apple Pages
 
 ![在苹果的 Pages 中使用变体](font-variant-in-pages.png)

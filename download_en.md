@@ -21,6 +21,12 @@ Please uninstall the old font before install the new one.
 
 ## Using Variants
 
-### Pages
+### Microsoft Office
+
+Individual fonts will show up here instead of font variant.
+
+![Using font variant in Microsoft Pages](font-variant-in-ms-office.png)
+
+### Apple Pages
 
 ![Using font variant in Apple Pages](font-variant-in-pages.png)
