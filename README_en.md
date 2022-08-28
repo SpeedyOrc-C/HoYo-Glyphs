@@ -29,7 +29,7 @@ A tick means the font of this writing system is ready to use from this repositor
 - [X] Inazuma Script
 - [X] Khaenri'ah Script
 - [X] Khaenri'ah Script - The Chasm's Variant
-- [ ] Sumeru Script (temporary name)
+- [X] Sumeru Script (temporary name)
 - [ ] Sumeru Script - Desert's Variant (temporary name)
 
 ### Honkai - Star Rail

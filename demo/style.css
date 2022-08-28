@@ -38,6 +38,10 @@
     font-family: ZzzNeueVariantB;
     src: url("../font/zenless-zone-zero/ZZZNeue-VariantB-0.003.otf") format("opentype");
 }
+@font-face {
+    font-family: SumeruNeue;
+    src: url("../font/genshin-impact/SumeruNeue-Regular-v0.001.otf") format("opentype");
+}
 
 body {
     background-color: rgb(248, 241, 226);
@@ -114,3 +118,4 @@ body {
 #star-rail-neue { font-family: StarRailNeue, serif; }
 #zzz-neue-variant-a { font-family: ZzzNeueVariantA, serif; }
 #zzz-neue-variant-b { font-family: ZzzNeueVariantB, serif; }
+#sumeru-neue { font-family: SumeruNeue, serif; }

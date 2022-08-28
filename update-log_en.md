@@ -1,5 +1,14 @@
 # Update Log & Known Issues
 
+## Sumeru Neue
+
+### v0.001
+
+These letters are not completed:
+```
+G J U W X Z
+```
+
 ## Teyvat Neue
 
 ### v1.002
