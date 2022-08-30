@@ -2,6 +2,13 @@
 
 ## Sumeru Neue
 
+### v0.002
+
+Added the letter `G`.
+
+Fixed the disappearance of strokes' intersection of letters `H` and `L`
+in some applications. 
+
 ### v0.001
 
 These letters are not completed:
