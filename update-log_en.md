@@ -2,6 +2,10 @@
 
 ## Sumeru Neue
 
+### v0.003
+
+Fix many letters' kerning. Update recommended to all users. 
+
 ### v0.002
 
 Added the letter `G`.
