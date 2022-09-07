@@ -2,6 +2,10 @@
 
 ## Sumeru Neue
 
+### v0.004
+
+Fix the absence of glyph when typing `g`. Update recommend to all users.
+
 ### v0.003
 
 Fix many letters' kerning. Update recommended to all users. 
