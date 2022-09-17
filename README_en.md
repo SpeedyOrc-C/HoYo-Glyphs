@@ -16,7 +16,9 @@ If you want to track the updates on this repository, please click the eye icon `
 
 ## [Download](download_en.md)
 
-## [Update Log & Known Issues](update-log_en.md)
+## Update Log & Known Issues
+
+Please go to Wiki.
 
 ## Included Writing Systems
 
