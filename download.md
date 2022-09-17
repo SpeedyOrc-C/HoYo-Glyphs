@@ -6,7 +6,7 @@
 
 ## 下载链接
 
-- [提瓦特字母](font/genshin-impact/TeyvatNeue-Regular-1.001.otf)
+- [提瓦特字母](font/genshin-impact/TeyvatNeue-Regular-1.002.otf)
 - [稻妻字母](font/genshin-impact/InazumaNeue-Regular-0.006.otf)
 - [须弥字母](font/genshin-impact/SumeruNeue-Regular-0.006.otf)
 - [坎瑞亚字母](font/genshin-impact/KhaenriahNeue-Regular-2.000.otf)
