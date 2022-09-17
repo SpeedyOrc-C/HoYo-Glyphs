@@ -8,7 +8,7 @@
 
 - [Teyvat Glyph](font/genshin-impact/TeyvatNeue-Regular-1.001.otf)
 - [Inazuma Glyph](font/genshin-impact/InazumaNeue-Regular-0.006.otf)
-- [Sumery Glyph](font/genshin-impact/SumeruNeue-Regular-0.004.otf)
+- [Sumery Glyph](font/genshin-impact/SumeruNeue-Regular-0.006.otf)
 - [Khaenri'ah Glyph](font/genshin-impact/KhaenriahNeue-Regular-2.000.otf)
 - [Khaenri'ah Glyph - The Chasm's Variant](font/genshin-impact/KhaenriahNeue-Chasm-2.000.otf)
 - [Honkai Star Rail Glyph](font/honkai-star-rail/StarRailNeue-Regular-0.002.otf)

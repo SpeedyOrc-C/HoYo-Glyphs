@@ -8,7 +8,7 @@
 
 - [提瓦特字母](font/genshin-impact/TeyvatNeue-Regular-1.001.otf)
 - [稻妻字母](font/genshin-impact/InazumaNeue-Regular-0.006.otf)
-- [须弥字母](font/genshin-impact/SumeruNeue-Regular-0.004.otf)
+- [须弥字母](font/genshin-impact/SumeruNeue-Regular-0.006.otf)
 - [坎瑞亚字母](font/genshin-impact/KhaenriahNeue-Regular-2.000.otf)
 - [坎瑞亚字母层岩巨渊变体](font/genshin-impact/KhaenriahNeue-Chasm-2.000.otf)
 - [星穹铁道字母](font/honkai-star-rail/StarRailNeue-Regular-0.002.otf)

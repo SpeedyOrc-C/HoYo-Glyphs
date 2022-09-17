@@ -2,6 +2,12 @@
 
 ## Sumeru Neue
 
+### v0.006
+
+Added the letter `U`.
+
+Slightly changed the shape of letter `A`.
+
 ### v0.004
 
 Fix the absence of glyph when typing `g`. Update recommend to all users.
