@@ -42,6 +42,10 @@
     font-family: SumeruNeue;
     src: url("../font/genshin-impact/SumeruNeue-Regular-0.007.otf") format("opentype");
 }
+@font-face {
+    font-family: DeshretNeue;
+    src: url("../font/genshin-impact/DeshretNeue-Regular-1.001.otf") format("opentype");
+}
 
 body {
     background-color: rgb(248, 241, 226);
@@ -119,3 +123,4 @@ body {
 #zzz-neue-variant-a { font-family: ZzzNeueVariantA, serif; }
 #zzz-neue-variant-b { font-family: ZzzNeueVariantB, serif; }
 #sumeru-neue { font-family: SumeruNeue, serif; }
+#deshret-neue { font-family: DeshretNeue, serif; }
