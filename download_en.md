@@ -7,7 +7,7 @@
 ## Links
 
 - [Teyvat Glyph](font/genshin-impact/TeyvatNeue-Regular-1.002.otf)
-- [Inazuma Glyph](font/genshin-impact/InazumaNeue-Regular-0.006.otf)
+- [Inazuma Glyph](font/genshin-impact/InazumaNeue-Regular-1.000.otf)
 - [Sumeru Glyph](font/genshin-impact/SumeruNeue-Regular-0.007.otf)
 - [Deshret Glyph](font/genshin-impact/DeshretNeue-Regular-1.001.otf)
 - [Khaenri'ah Glyph](font/genshin-impact/KhaenriahNeue-Regular-2.000.otf)
