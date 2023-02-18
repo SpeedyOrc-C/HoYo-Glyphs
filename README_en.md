@@ -36,7 +36,9 @@ A tick means the font of this writing system is ready to use from this repositor
 
 ### Honkai - Star Rail
 
-- [X] Star Rail Script (temporary name)
+- [X] Star Rail Script
+- [ ] Star Rail Script (VARIABLE FONT!!!)
+- [ ] Luofu Script
 
 ### Zenless Zone Zero
 
