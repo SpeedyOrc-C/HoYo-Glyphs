@@ -6,18 +6,25 @@
 
 ## 下载链接
 
+### 原神
+
 - [提瓦特字母](font/genshin-impact/TeyvatNeue-Regular-1.002.otf)
 - [稻妻字母](font/genshin-impact/InazumaNeue-Regular-1.000.otf)
 - [须弥字母](font/genshin-impact/SumeruNeue-Regular-0.007.otf)
 - [赤冠字母](font/genshin-impact/DeshretNeue-Regular-1.002.otf)
 - [坎瑞亚字母](font/genshin-impact/KhaenriahNeue-Regular-2.000.otf)
 - [坎瑞亚字母层岩巨渊变体](font/genshin-impact/KhaenriahNeue-Chasm-2.000.otf)
+
+### 崩坏·星穹铁道
+
 - [星穹铁道字母 - 细体](font/honkai-star-rail/StarRailNeue-Thin-0.101.otf)
 - [星穹铁道字母 - 常规](font/honkai-star-rail/StarRailNeue-Regular-0.101.otf)
 - [星穹铁道字母 - 粗体](font/honkai-star-rail/StarRailNeue-Bold-0.101.otf)
+
+### 绝区零
+
 - [绝区零字母一号变体](font/zenless-zone-zero/ZZZNeue-VariantA-0.003.otf)
 - [绝区零字母二号变体](font/zenless-zone-zero/ZZZNeue-VariantB-0.003.otf)
-- [所有字母表](doc/Hoyo-Glyphs-alphabet.pdf)
 
 ## 注意
 
