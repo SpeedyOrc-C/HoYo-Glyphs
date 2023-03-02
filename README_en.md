@@ -23,7 +23,7 @@ Please go to Wiki.
 ## Included Writing Systems
 
 All the writing systems that appeared in the game are listed below.
-A tick means the font of this writing system is ready to use from this repository. 
+A tick means the font of this writing system is ready to use from this repository.
 
 ### Genshin Impact
 
@@ -38,7 +38,7 @@ A tick means the font of this writing system is ready to use from this repositor
 
 - [X] Star Rail Script
 - [ ] Star Rail Script (VARIABLE FONT!!!)
-- [ ] Luofu Script
+- [ ] Luofu Script `13/52` <progress max="52" value="13"></progress>
 
 ### Zenless Zone Zero
 
