@@ -36,7 +36,7 @@
 
 - [X] 星穹铁道文字
 - [ ] 星穹铁道文字（可变字体！！！）
-- [ ] 罗浮文字 `13/52` <progress max="52" value="13"></progress>
+- [ ] 罗浮文字 `29/52` <progress max="52" value="29"></progress>
 
 ### 《绝区零》
 

@@ -38,7 +38,7 @@ A tick means the font of this writing system is ready to use from this repositor
 
 - [X] Star Rail Script
 - [ ] Star Rail Script (VARIABLE FONT!!!)
-- [ ] Luofu Script `13/52` <progress max="52" value="13"></progress>
+- [ ] Luofu Script `29/52` <progress max="52" value="29"></progress>
 
 ### Zenless Zone Zero
 
