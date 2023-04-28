@@ -1,69 +1,82 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 
 <head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="style.css">
-  <title>Font Demo - 字体演示</title>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Font Demo - 字体演示</title>
 </head>
 
 <body>
 
-  <div id="title">Font Demo - 字体演示</div>
+    <div id="title">Font Demo - 字体演示</div>
 
-  <div class="wrapper">
+    <div class="wrapper">
 
-    <div class="left">
-      <textarea id="input-text" autofocus="autofocus"></textarea>
+        <textarea id="input-text" autofocus="autofocus"></textarea>
+
+        <div class="font-name">Teyvat Neue</div>
+        <div id="teyvat-neue" class="font-text"></div>
+
+        <div class="font-name">Inazuma Neue</div>
+        <div id="inazuma-neue" class="font-text"></div>
+
+        <div class="font-name">Sumeru Neue</div>
+        <div id="sumeru-neue" class="font-text"></div>
+
+        <div class="font-name">Deshret Neue</div>
+        <div id="deshret-neue" class="font-text"></div>
+
+        <div class="font-name">Khaenri'ah Neue</div>
+        <div id="khaenriah-neue" class="font-text"></div>
+
+        <div class="font-name">Khaenri'ah Neue Chasm</div>
+        <div id="khaenriah-neue-chasm" class="font-text"></div>
+
+        <div class="font-name">Star Rail Neue</div>
+        <div id="star-rail-neue" class="font-text"></div>
+
+        <div class="font-name">Luofu Neue</div>
+        <div id="luofu-neue" class="font-text"></div>
+
+        <div class="font-name">ZZZ Neue Variant A</div>
+        <div id="zzz-neue-variant-a" class="font-text"></div>
+
+        <div class="font-name">ZZZ Neue Variant B</div>
+        <div id="zzz-neue-variant-b" class="font-text"></div>
+
     </div>
 
-    <div class="right">
-      <div class="font-name">Teyvat Neue</div>
-      <p id="teyvat-neue" class="font-text"></p>
-      <div class="font-name">Sumeru Neue</div>
-      <p id="sumeru-neue" class="font-text"></p>
-      <div class="font-name">Inazuma Neue</div>
-      <p id="inazuma-neue" class="font-text"></p>
-      <div class="font-name">Khaenri'ah Neue - Regular</div>
-      <p id="khaenriah-neue" class="font-text"></p>
-      <div class="font-name">Khaenri'ah Neue - Chasm</div>
-      <p id="khaenriah-neue-chasm" class="font-text"></p>
-      <div class="font-name">Star Rail Neue</div>
-      <p id="star-rail-neue" class="font-text"></p>
-      <div class="font-name">ZZZ Neue - Variant A</div>
-      <p id="zzz-neue-variant-a" class="font-text"></p>
-      <div class="font-name">ZZZ Neue - Variant B</div>
-      <p id="zzz-neue-variant-b" class="font-text"></p>
-    </div>
+    <script>
+        let inputText = document.getElementById('input-text')
 
-  </div>
+        let fontsId = [
+            'teyvat-neue',
+            'inazuma-neue',
+            'sumeru-neue',
+            'deshret-neue',
+            'khaenriah-neue',
+            'khaenriah-neue-chasm',
+            'star-rail-neue',
+            'luofu-neue',
+            'zzz-neue-variant-a',
+            'zzz-neue-variant-b',
+        ]
 
-  <script>
-    let inputText = document.getElementById('input-text')
+        let fontTexts = fontsId.map(fontId => document.getElementById(fontId))
 
-    let fontTexts = [
-      document.getElementById('teyvat-neue'),
-      document.getElementById('sumeru-neue'),
-      document.getElementById('inazuma-neue'),
-      document.getElementById('khaenriah-neue'),
-      document.getElementById('khaenriah-neue-chasm'),
-      document.getElementById('star-rail-neue'),
-      document.getElementById('zzz-neue-variant-a'),
-      document.getElementById('zzz-neue-variant-b')]
+        updateText = () => fontTexts.forEach(fontText =>
+            fontText.innerText = inputText.value)
 
-    updateText = () => fontTexts.forEach
-      (fontText => fontText.innerHTML = inputText.value)
-    
-      inputText.addEventListener('change', updateText);
-    inputText.addEventListener('keyup', updateText);
-    
-    inputText.value = 'The quick brown fox jumps over the lazy dog.';
+        inputText.addEventListener('change', updateText);
+        inputText.addEventListener('keyup', updateText);
 
-    updateText();
+        inputText.value = 'The quick brown fox jumps over the lazy dog.';
 
-  </script>
+        updateText();
+    </script>
 
 </body>
 
