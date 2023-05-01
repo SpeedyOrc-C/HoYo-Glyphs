@@ -8,24 +8,28 @@
 
 ### Genshin Impact
 
-- [Teyvat Glyph](font/genshin-impact/TeyvatNeue-Regular-1.002.otf)
-- [Inazuma Glyph](font/genshin-impact/InazumaNeue-Regular-1.000.otf)
-- [Sumeru Glyph](font/genshin-impact/SumeruNeue-Regular-0.007.otf)
-- [Deshret Glyph](font/genshin-impact/DeshretNeue-Regular-1.002.otf)
+- [Teyvat Glyph](font/genshin-impact/teyvat/TeyvatNeue-Regular-1.002.otf)
+- [Inazuma Glyph](font/genshin-impact/inazuma/InazumaNeue-Regular-1.000.otf)
+- [Sumeru Glyph](font/genshin-impact/sumeru/SumeruNeue-Regular-0.007.otf)
+- [Deshret Glyph](font/genshin-impact/deshret/DeshretNeue-Regular-1.002.otf)
 - Khaenri'ah Glyph
-  - [Regular](font/genshin-impact/KhaenriahNeue-Regular-2.000.otf)
-  - [The Chasm's Variant](font/genshin-impact/KhaenriahNeue-Chasm-2.000.otf)
+  - [Regular](font/genshin-impact/khaenriah/KhaenriahNeue-Regular-2.000.otf)
+  - [The Chasm's Variant](font/genshin-impact/khaenriah/KhaenriahNeue-Chasm-2.000.otf)
 
 ### Honkai - Star Rail
 
 - Honkai Star Rail Glyph
-  - [Thin](font/honkai-star-rail/StarRailNeue-Thin-0.101.otf)
-  - [Regular](font/honkai-star-rail/StarRailNeue-Regular-0.101.otf)
-  - [Bold](font/honkai-star-rail/StarRailNeue-Bold-0.101.otf)
-- Luofu Neue
-  - [Thin](font/honkai-star-rail/LuofuNeue-Thin-0.001.otf)
-  - [Regular](font/honkai-star-rail/LuofuNeue-Regular-0.001.otf)
-  - [Bold](font/honkai-star-rail/LuofuNeue-Bold-0.001.otf)
+  - [Extra Light](font/honkai-star-rail/star-rail/StarRailNeue-ExtraLight-0.200.otf)
+  - [Light](font/honkai-star-rail/star-rail/StarRailNeue-Light-0.200.otf)
+  - [Regular](font/honkai-star-rail/star-rail/StarRailNeue-Regular-0.200.otf)
+  - [Semi Bold](font/honkai-star-rail/star-rail/StarRailNeue-SemiBold-0.200.otf)
+  - [Bold](font/honkai-star-rail/star-rail/StarRailNeue-Bold-0.200.otf)
+- Luofu Glyph
+  - [Extra Light](font/honkai-star-rail/luofu/LuofuNeue-ExtraLight-0.100.otf)
+  - [Light](font/honkai-star-rail/luofu/LuofuNeue-Light-0.100.otf)
+  - [Regular](font/honkai-star-rail/luofu/LuofuNeue-Regular-0.100.otf)
+  - [Semi Bold](font/honkai-star-rail/luofu/LuofuNeue-SemiBold-0.100.otf)
+  - [Bold](font/honkai-star-rail/luofu/LuofuNeue-Bold-0.100.otf)
 
 ### Zenless Zone Zero
 

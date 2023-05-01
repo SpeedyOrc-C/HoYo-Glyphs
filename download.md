@@ -8,24 +8,28 @@
 
 ### 原神
 
-- [提瓦特字母](font/genshin-impact/TeyvatNeue-Regular-1.002.otf)
-- [稻妻字母](font/genshin-impact/InazumaNeue-Regular-1.000.otf)
-- [须弥字母](font/genshin-impact/SumeruNeue-Regular-0.007.otf)
-- [赤冠字母](font/genshin-impact/DeshretNeue-Regular-1.002.otf)
+- [提瓦特字母](font/genshin-impact/teyvat/TeyvatNeue-Regular-1.002.otf)
+- [稻妻字母](font/genshin-impact/inazuma/InazumaNeue-Regular-1.000.otf)
+- [须弥字母](font/genshin-impact/sumeru/SumeruNeue-Regular-0.007.otf)
+- [赤冠字母](font/genshin-impact/deshret/DeshretNeue-Regular-1.002.otf)
 - 坎瑞亚字母
-  - [常规](font/genshin-impact/KhaenriahNeue-Regular-2.000.otf)
-  - [层岩巨渊变体](font/genshin-impact/KhaenriahNeue-Chasm-2.000.otf)
+  - [常规](font/genshin-impact/khaenriah/KhaenriahNeue-Regular-2.000.otf)
+  - [层岩巨渊变体](font/genshin-impact/khaenriah/KhaenriahNeue-Chasm-2.000.otf)
 
 ### 崩坏·星穹铁道
 
 - 星穹铁道字母
-  - [细体](font/honkai-star-rail/StarRailNeue-Thin-0.101.otf)
-  - [常规](font/honkai-star-rail/StarRailNeue-Regular-0.101.otf)
-  - [粗体](font/honkai-star-rail/StarRailNeue-Bold-0.101.otf)
+  - [极细体](font/honkai-star-rail/star-rail/StarRailNeue-ExtraLight-0.200.otf)
+  - [细体](font/honkai-star-rail/star-rail/StarRailNeue-Light-0.200.otf)
+  - [常规](font/honkai-star-rail/star-rail/StarRailNeue-Regular-0.200.otf)
+  - [中黑体](font/honkai-star-rail/star-rail/StarRailNeue-SemiBold-0.200.otf)
+  - [粗体](font/honkai-star-rail/star-rail/StarRailNeue-Bold-0.200.otf)
 - 罗浮字母
-  - [细体](font/honkai-star-rail/LuofuNeue-Thin-0.001.otf)
-  - [常规](font/honkai-star-rail/LuofuNeue-Regular-0.001.otf)
-  - [粗体](font/honkai-star-rail/LuofuNeue-Bold-0.001.otf)
+  - [极细体](font/honkai-star-rail/luofu/LuofuNeue-ExtraLight-0.100.otf)
+  - [细体](font/honkai-star-rail/luofu/LuofuNeue-Light-0.100.otf)
+  - [常规](font/honkai-star-rail/luofu/LuofuNeue-Regular-0.100.otf)
+  - [中黑体](font/honkai-star-rail/luofu/LuofuNeue-SemiBold-0.100.otf)
+  - [粗体](font/honkai-star-rail/luofu/LuofuNeue-Bold-0.100.otf)
 
 ### 绝区零
 
