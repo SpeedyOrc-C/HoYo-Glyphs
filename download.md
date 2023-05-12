@@ -18,12 +18,8 @@
 
 ### 崩坏·星穹铁道
 
-- 星穹铁道字母
-  - [极细体](font/honkai-star-rail/star-rail/StarRailNeue-ExtraLight-0.200.otf)
-  - [细体](font/honkai-star-rail/star-rail/StarRailNeue-Light-0.200.otf)
-  - [常规](font/honkai-star-rail/star-rail/StarRailNeue-Regular-0.200.otf)
-  - [中黑体](font/honkai-star-rail/star-rail/StarRailNeue-SemiBold-0.200.otf)
-  - [粗体](font/honkai-star-rail/star-rail/StarRailNeue-Bold-0.200.otf)
+[Star Rail Neue 家族](https://github.com/SpeedyOrc-C/Hoyo-Glyphs/releases/tag/star-rail-1.000)（于贝洛伯格、黑塔空间站以及用户界面内使用）
+
 - 罗浮字母
   - [极细体](font/honkai-star-rail/luofu/LuofuNeue-ExtraLight-0.100.otf)
   - [细体](font/honkai-star-rail/luofu/LuofuNeue-Light-0.100.otf)

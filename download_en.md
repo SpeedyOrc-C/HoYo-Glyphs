@@ -18,12 +18,8 @@
 
 ### Honkai - Star Rail
 
-- Honkai Star Rail Glyph
-  - [Extra Light](font/honkai-star-rail/star-rail/StarRailNeue-ExtraLight-0.200.otf)
-  - [Light](font/honkai-star-rail/star-rail/StarRailNeue-Light-0.200.otf)
-  - [Regular](font/honkai-star-rail/star-rail/StarRailNeue-Regular-0.200.otf)
-  - [Semi Bold](font/honkai-star-rail/star-rail/StarRailNeue-SemiBold-0.200.otf)
-  - [Bold](font/honkai-star-rail/star-rail/StarRailNeue-Bold-0.200.otf)
+- [Star Rail Neue - Family](https://github.com/SpeedyOrc-C/Hoyo-Glyphs/releases/tag/star-rail-1.000) (Used in Belobog, Herta Space Station, and UI)
+
 - Luofu Glyph
   - [Extra Light](font/honkai-star-rail/luofu/LuofuNeue-ExtraLight-0.100.otf)
   - [Light](font/honkai-star-rail/luofu/LuofuNeue-Light-0.100.otf)
