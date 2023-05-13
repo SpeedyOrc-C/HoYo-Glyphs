@@ -16,6 +16,11 @@ If you want to track the updates on this repository, please click the eye icon `
 
 ## [Download](download_en.md)
 
+Please be aware that I'll move all the fonts published in the future
+into Release. So please find what you need in Release's folder.
+
+Also, I'll gradually move all the existing fonts into Release.
+
 ## Update Log & Known Issues
 
 Please go to Wiki.
