@@ -18,7 +18,7 @@
 
 ### Honkai - Star Rail
 
-- [Star Rail Neue - Family](https://github.com/SpeedyOrc-C/Hoyo-Glyphs/releases/tag/star-rail-1.000) (Used in Belobog, Herta Space Station, and UI)
+- [Star Rail Neue - Family](https://github.com/SpeedyOrc-C/Hoyo-Glyphs/releases/tag/star-rail-neue-1.100) (Used in Belobog, Herta Space Station, and UI)
 
 - Luofu Glyph
   - [Extra Light](font/honkai-star-rail/luofu/LuofuNeue-ExtraLight-0.100.otf)
@@ -34,7 +34,9 @@
 
 ## Notice
 
-Please uninstall the old font before install the new one. 
+* For all fonts released after May 2023, you will find `ttf`, `otf`, `woff2` and apple device version.
+* Apple device version contains fonts in `otf` format, which can be found in folder `apple`. 
+* Please uninstall the old font before install the new one. 
 
 ## Using Variants
 

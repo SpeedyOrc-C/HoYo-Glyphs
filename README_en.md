@@ -1,4 +1,4 @@
-# Hoyo Glyphs
+# HoYo Glyphs
 
 ![Image to Font Specimen](specimen.png)
 
@@ -9,8 +9,6 @@
 This repository contains the fonts of the constructed writing systems
 in the video games developed by Hoyoverse. These fonts are
 **not obtained from any forms of reverse engineering to the games**. 
-
-If you want to have a glance at them just for fun, check [this link](https://speedyorc-c.github.io/Hoyo-Glyphs/demo/index.html).
 
 If you want to track the updates on this repository, please click the eye icon `watch` above.
 

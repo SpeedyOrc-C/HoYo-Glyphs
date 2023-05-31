@@ -16,9 +16,9 @@
   - [常规](font/genshin-impact/khaenriah/KhaenriahNeue-Regular-2.000.otf)
   - [层岩巨渊变体](font/genshin-impact/khaenriah/KhaenriahNeue-Chasm-2.000.otf)
 
-### 崩坏·星穹铁道
+### 崩坏：星穹铁道
 
-[Star Rail Neue 家族](https://github.com/SpeedyOrc-C/Hoyo-Glyphs/releases/tag/star-rail-1.000)（于贝洛伯格、黑塔空间站以及用户界面内使用）
+[Star Rail Neue 家族](https://github.com/SpeedyOrc-C/Hoyo-Glyphs/releases/tag/star-rail-neue-1.100)（于贝洛伯格、黑塔空间站以及用户界面内使用）
 
 - 罗浮字母
   - [极细体](font/honkai-star-rail/luofu/LuofuNeue-ExtraLight-0.100.otf)
@@ -34,7 +34,9 @@
 
 ## 注意
 
-在安装新字体的之前，请卸载旧字体。
+* 对于2023年5月之后发布的字体，都会同时发布 `ttf`、`otf`、`woff2` 以及苹果设备的版本。
+* 苹果设备的版本中包含的是 `otf` 格式的字体，可以在 `apple` 文件夹中找到其对应的描述文件以直接安装。
+* 在安装新字体的之前，请卸载旧字体。
 
 ## 使用变体
 
