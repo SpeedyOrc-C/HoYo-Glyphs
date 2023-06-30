@@ -6,6 +6,8 @@
 
 ## Links
 
+[The Alphabet](https://github.com/SpeedyOrc-C/HoYo-Glyphs/releases/tag/Alphabet-20230630)
+
 ### Genshin Impact
 
 [Teyvat Black](https://github.com/SpeedyOrc-C/HoYo-Glyphs/releases/tag/teyvat-black-1.003) (The common script on Teyvat)

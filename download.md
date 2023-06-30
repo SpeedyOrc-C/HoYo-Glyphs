@@ -6,6 +6,8 @@
 
 ## 下载链接
 
+[字母表](https://github.com/SpeedyOrc-C/HoYo-Glyphs/releases/tag/Alphabet-20230630)
+
 ### 原神
 
 [Teyvat Black](https://github.com/SpeedyOrc-C/HoYo-Glyphs/releases/tag/teyvat-black-1.003) （通行于提瓦特大陆的文字）
