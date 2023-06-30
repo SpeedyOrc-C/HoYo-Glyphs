@@ -8,7 +8,8 @@
 
 ### Genshin Impact
 
-- [Teyvat Glyph](font/genshin-impact/teyvat/TeyvatNeue-Regular-1.002.otf)
+[Teyvat Black](https://github.com/SpeedyOrc-C/HoYo-Glyphs/releases/tag/teyvat-black-1.003) (The common script on Teyvat)
+
 - [Inazuma Glyph](font/genshin-impact/inazuma/InazumaNeue-Regular-1.000.otf)
 - [Sumeru Glyph](font/genshin-impact/sumeru/SumeruNeue-Regular-0.007.otf)
 - [Deshret Glyph](font/genshin-impact/deshret/DeshretNeue-Regular-1.002.otf)

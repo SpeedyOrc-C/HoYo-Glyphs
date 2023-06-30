@@ -8,7 +8,8 @@
 
 ### 原神
 
-- [提瓦特字母](font/genshin-impact/teyvat/TeyvatNeue-Regular-1.002.otf)
+[Teyvat Black](https://github.com/SpeedyOrc-C/HoYo-Glyphs/releases/tag/teyvat-black-1.003)
+
 - [稻妻字母](font/genshin-impact/inazuma/InazumaNeue-Regular-1.000.otf)
 - [须弥字母](font/genshin-impact/sumeru/SumeruNeue-Regular-0.007.otf)
 - [赤冠字母](font/genshin-impact/deshret/DeshretNeue-Regular-1.002.otf)
