@@ -20,12 +20,7 @@
 
 - [Star Rail Neue - Family](https://github.com/SpeedyOrc-C/Hoyo-Glyphs/releases/tag/star-rail-neue-1.100) (Used in Belobog, Herta Space Station, and UI)
 
-- Luofu Glyph
-  - [Extra Light](font/honkai-star-rail/luofu/LuofuNeue-ExtraLight-0.100.otf)
-  - [Light](font/honkai-star-rail/luofu/LuofuNeue-Light-0.100.otf)
-  - [Regular](font/honkai-star-rail/luofu/LuofuNeue-Regular-0.100.otf)
-  - [Semi Bold](font/honkai-star-rail/luofu/LuofuNeue-SemiBold-0.100.otf)
-  - [Bold](font/honkai-star-rail/luofu/LuofuNeue-Bold-0.100.otf)
+- [Xianzhou Seal - Family](https://github.com/SpeedyOrc-C/HoYo-Glyphs/releases/tag/xianzhou-seal-1.000) (Used in 6 spaceships of Xianzhou)
 
 ### Zenless Zone Zero
 

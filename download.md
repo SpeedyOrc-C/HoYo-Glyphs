@@ -20,12 +20,7 @@
 
 [Star Rail Neue 家族](https://github.com/SpeedyOrc-C/Hoyo-Glyphs/releases/tag/star-rail-neue-1.100)（于贝洛伯格、黑塔空间站以及用户界面内使用）
 
-- 罗浮字母
-  - [极细体](font/honkai-star-rail/luofu/LuofuNeue-ExtraLight-0.100.otf)
-  - [细体](font/honkai-star-rail/luofu/LuofuNeue-Light-0.100.otf)
-  - [常规](font/honkai-star-rail/luofu/LuofuNeue-Regular-0.100.otf)
-  - [中黑体](font/honkai-star-rail/luofu/LuofuNeue-SemiBold-0.100.otf)
-  - [粗体](font/honkai-star-rail/luofu/LuofuNeue-Bold-0.100.otf)
+[Xianzhou Seal 家族](https://github.com/SpeedyOrc-C/HoYo-Glyphs/releases/tag/xianzhou-seal-1.000) （于仙舟的六艘船内使用）
 
 ### 绝区零
 
