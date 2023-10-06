@@ -30,6 +30,10 @@
 - [ZZZ Glyph - Variant A](font/zenless-zone-zero/ZZZNeue-VariantA-0.003.otf)
 - [ZZZ Glyph - Variant B](font/zenless-zone-zero/ZZZNeue-VariantB-0.003.otf)
 
+### Honkai 3<sup>rd</sup> II
+
+[Martian](https://github.com/SpeedyOrc-C/Honkai-3rd-II-Martian)'s 
+writing system is quite complicated, thus we do not make a font for it for now. Now it has been implemented with web technology.
 ## Notice
 
 * For all fonts released after May 2023, you will find `ttf`, `otf`, `woff2` and apple device version.

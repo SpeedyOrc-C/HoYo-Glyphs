@@ -30,6 +30,11 @@
 - [绝区零字母一号变体](font/zenless-zone-zero/ZZZNeue-VariantA-0.003.otf)
 - [绝区零字母二号变体](font/zenless-zone-zero/ZZZNeue-VariantB-0.003.otf)
 
+### 崩坏三（第二部）
+
+[火星文](https://github.com/SpeedyOrc-C/Honkai-3rd-II-Martian)
+由于书写系统较为复杂，暂时无法做成字体，目前仅有使用网页技术的实现。
+
 ## 注意
 
 * 对于2023年5月之后发布的字体，都会同时发布 `ttf`、`otf`、`woff2` 以及苹果设备的版本。
