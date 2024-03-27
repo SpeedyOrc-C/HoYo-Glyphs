@@ -6,7 +6,7 @@
 
 ## Links
 
-[The Alphabet](https://github.com/SpeedyOrc-C/HoYo-Glyphs/releases/tag/Alphabet-20230630)
+[The Alphabet](https://github.com/SpeedyOrc-C/HoYo-Glyphs/releases/tag/Alphabet-20240327)
 
 ### Genshin Impact
 
