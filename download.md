@@ -18,6 +18,7 @@
 - 坎瑞亚字母
   - [常规](font/genshin-impact/khaenriah/KhaenriahNeue-Regular-2.000.otf)
   - [层岩巨渊变体](font/genshin-impact/khaenriah/KhaenriahNeue-Chasm-2.000.otf)
+- [Font Ainee](https://github.com/SpeedyOrc-C/HoYo-Glyphs/releases/tag/font-ainee-1.000)（于枫丹内使用）
 
 ### 崩坏：星穹铁道
 

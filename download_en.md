@@ -18,6 +18,7 @@
 - Khaenri'ah Glyph
   - [Regular](font/genshin-impact/khaenriah/KhaenriahNeue-Regular-2.000.otf)
   - [The Chasm's Variant](font/genshin-impact/khaenriah/KhaenriahNeue-Chasm-2.000.otf)
+- [Font Ainee](https://github.com/SpeedyOrc-C/HoYo-Glyphs/releases/tag/font-ainee-1.000) (Used in Fontaine)
 
 ### Honkai - Star Rail
 
