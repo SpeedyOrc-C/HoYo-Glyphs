@@ -10,8 +10,7 @@
 
 ### 原神
 
-[Teyvat Black](https://github.com/SpeedyOrc-C/HoYo-Glyphs/releases/tag/teyvat-black-1.003) （通行于提瓦特大陆的文字）
-
+- [Teyvat Black](https://github.com/SpeedyOrc-C/HoYo-Glyphs/releases/tag/teyvat-black-1.003) （通行于提瓦特大陆的文字）
 - [稻妻字母](font/genshin-impact/inazuma/InazumaNeue-Regular-1.000.otf)
 - [须弥字母](font/genshin-impact/sumeru/SumeruNeue-Regular-0.007.otf)
 - [赤冠字母](font/genshin-impact/deshret/DeshretNeue-Regular-1.002.otf)
@@ -22,14 +21,13 @@
 
 ### 崩坏：星穹铁道
 
-[Star Rail Neue 家族](https://github.com/SpeedyOrc-C/Hoyo-Glyphs/releases/tag/star-rail-neue-1.100)（于贝洛伯格、黑塔空间站以及用户界面内使用）
-
-[Xianzhou Seal 家族](https://github.com/SpeedyOrc-C/HoYo-Glyphs/releases/tag/xianzhou-seal-1.000) （于仙舟的六艘船内使用）
+- [Star Rail Neue 家族](https://github.com/SpeedyOrc-C/Hoyo-Glyphs/releases/tag/star-rail-neue-1.100)（于贝洛伯格、黑塔空间站以及用户界面内使用）
+- [Xianzhou Seal 家族](https://github.com/SpeedyOrc-C/HoYo-Glyphs/releases/tag/xianzhou-seal-1.000) （于仙舟的六艘船内使用）
 
 ### 绝区零
 
-- [绝区零字母一号变体](font/zenless-zone-zero/ZZZNeue-VariantA-0.003.otf)
-- [绝区零字母二号变体](font/zenless-zone-zero/ZZZNeue-VariantB-0.003.otf)
+- [ZZZ A](https://github.com/SpeedyOrc-C/HoYo-Glyphs/releases/tag/zzz-a-1.000)
+- [ZZZ System](https://github.com/SpeedyOrc-C/HoYo-Glyphs/releases/tag/zzz-system-1.000)（于游戏的 UI 中使用）
 
 ### 崩坏三（第二部）
 
