@@ -6,7 +6,7 @@
 
 ## 下载链接
 
-[字母表](https://github.com/SpeedyOrc-C/HoYo-Glyphs/releases/tag/Alphabet-20240327)
+[字母表](https://github.com/SpeedyOrc-C/HoYo-Glyphs/releases/tag/Alphabet-20240713)
 
 ### 原神
 
