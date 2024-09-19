@@ -1,5 +1,5 @@
 {
-.appVersion = "3135";
+.appVersion = "3260";
 .formatVersion = 3;
 DisplayStrings = (
 y,
@@ -115331,33 +115331,6 @@ type = descender;
 );
 properties = (
 {
-key = designers;
-values = (
-{
-language = dflt;
-value = miHoYo;
-}
-);
-},
-{
-key = manufacturers;
-values = (
-{
-language = dflt;
-value = "陈湛明";
-}
-);
-},
-{
-key = familyNames;
-values = (
-{
-language = dflt;
-value = "Khaenriah Sun";
-}
-);
-},
-{
 key = copyrights;
 values = (
 {
@@ -115376,6 +115349,33 @@ value = "Khaenri'ah script, used by the rebels in Teyvat. ";
 {
 language = ZHS;
 value = "坎瑞亚文字，提瓦特反叛者的文字。";
+}
+);
+},
+{
+key = designers;
+values = (
+{
+language = dflt;
+value = miHoYo;
+}
+);
+},
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Khaenriah Sun";
+}
+);
+},
+{
+key = manufacturers;
+values = (
+{
+language = dflt;
+value = "陈湛明";
 }
 );
 }
