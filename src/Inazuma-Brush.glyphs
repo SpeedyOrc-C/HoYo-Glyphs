@@ -1,9 +1,6 @@
 {
-.appVersion = "3135";
+.appVersion = "3260";
 .formatVersion = 3;
-DisplayStrings = (
-"¦"
-);
 date = "2022-03-09 09:00:24 +0000";
 familyName = "Inazuma Brush";
 featurePrefixes = (
@@ -4595,11 +4592,15 @@ value = miHoYo;
 );
 },
 {
-key = manufacturers;
+key = descriptions;
 values = (
 {
 language = dflt;
-value = "陈湛明";
+value = "Inazuma script, written by brush. ";
+},
+{
+language = ZHS;
+value = "稻妻文字，以毛笔写就。";
 }
 );
 },
@@ -4622,24 +4623,20 @@ value = "Inazuma Brush";
 );
 },
 {
+key = manufacturers;
+values = (
+{
+language = dflt;
+value = "陈湛明";
+}
+);
+},
+{
 key = sampleTexts;
 values = (
 {
 language = dflt;
 value = "Konnichiha Inazuma KNCHINZM";
-}
-);
-},
-{
-key = descriptions;
-values = (
-{
-language = dflt;
-value = "Inazuma script, written by brush. ";
-},
-{
-language = ZHS;
-value = "稻妻文字，以毛笔写就。";
 }
 );
 }
