@@ -1,6 +1,10 @@
 {
-.appVersion = "3151";
+.appVersion = "3260";
 .formatVersion = 3;
+DisplayStrings = (
+"We/l.cv01 come to The Center",
+"/l.cv01"
+);
 axes = (
 {
 name = Weight;
@@ -26,6 +30,12 @@ features = (
 automatic = 1;
 code = "";
 tag = kern;
+},
+{
+automatic = 1;
+code = "sub l by l.cv01;
+";
+tag = cv01;
 }
 );
 fontMaster = (
@@ -8106,6 +8116,71 @@ width = 430;
 unicode = 122;
 },
 {
+glyphname = l.cv01;
+kernLeft = l;
+kernRight = l;
+lastChange = "2024-11-10 17:21:04 +0000";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(320,-10,l),
+(320,580,l),
+(110,580,l),
+(110,560,l),
+(300,560,l),
+(300,-10,l)
+);
+},
+{
+pos = (-30,-150);
+ref = "common-hook3";
+}
+);
+width = 380;
+},
+{
+layerId = "5DCAC9C2-0545-46AC-AFFE-31028D6C40EF";
+shapes = (
+{
+closed = 1;
+nodes = (
+(395,50,l),
+(395,600,l),
+(125,600,l),
+(125,500,l),
+(295,500,l),
+(295,50,l)
+);
+},
+{
+pos = (-25,-150);
+ref = "common-hook3";
+}
+);
+width = 445;
+}
+);
+},
+{
+glyphname = space;
+lastChange = "2023-05-27 14:23:04 +0000";
+layers = (
+{
+layerId = m01;
+width = 250;
+},
+{
+layerId = "5DCAC9C2-0545-46AC-AFFE-31028D6C40EF";
+width = 300;
+}
+);
+unicode = 32;
+},
+{
 glyphname = .notdef;
 lastChange = "2023-05-27 20:13:46 +0000";
 layers = (
@@ -8168,21 +8243,6 @@ scale = (0.683,0.683);
 width = 650;
 }
 );
-},
-{
-glyphname = space;
-lastChange = "2023-05-27 14:23:04 +0000";
-layers = (
-{
-layerId = m01;
-width = 250;
-},
-{
-layerId = "5DCAC9C2-0545-46AC-AFFE-31028D6C40EF";
-width = 300;
-}
-);
-unicode = 32;
 },
 {
 glyphname = period;
@@ -9283,25 +9343,29 @@ type = descender;
 );
 properties = (
 {
-key = designers;
-values = (
-{
-language = dflt;
-value = "陈湛明";
-}
-);
-},
-{
-key = manufacturers;
-values = (
-{
-language = dflt;
-value = "陈湛明";
-}
-);
-},
-{
 key = copyrights;
+values = (
+{
+language = dflt;
+value = "陈湛明";
+}
+);
+},
+{
+key = descriptions;
+values = (
+{
+language = ZHS;
+value = "星穹铁道文字，原汁原味的风格。";
+},
+{
+language = ENG;
+value = "Star Rail script, vanilla. ";
+}
+);
+},
+{
+key = designers;
 values = (
 {
 language = dflt;
@@ -9323,15 +9387,11 @@ value = "Star Rail Neue";
 );
 },
 {
-key = descriptions;
+key = manufacturers;
 values = (
 {
-language = ZHS;
-value = "星穹铁道文字，原汁原味的风格。";
-},
-{
-language = ENG;
-value = "Star Rail script, vanilla. ";
+language = dflt;
+value = "陈湛明";
 }
 );
 },
@@ -9369,5 +9429,5 @@ tH = "20";
 };
 };
 versionMajor = 1;
-versionMinor = 100;
+versionMinor = 200;
 }
