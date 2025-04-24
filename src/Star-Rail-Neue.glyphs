@@ -2,8 +2,7 @@
 .appVersion = "3260";
 .formatVersion = 3;
 DisplayStrings = (
-"We/l.cv01 come to The Center",
-"/l.cv01"
+A
 );
 axes = (
 {
@@ -55,13 +54,14 @@ id = m01;
 metricValues = (
 {
 over = 16;
-pos = 750;
+pos = 800;
 },
 {
+over = 16;
 pos = 700;
 },
 {
-pos = 480;
+pos = 500;
 },
 {
 },
@@ -6326,7 +6326,7 @@ layers = (
 layerId = m01;
 shapes = (
 {
-pos = (0,480);
+pos = (0,500);
 ref = a;
 scale = (1,-1);
 }
@@ -6360,7 +6360,7 @@ layerId = "F1716AD4-40A6-43E2-8AFB-D347E063D231";
 name = "23年5月12日 09:17";
 shapes = (
 {
-pos = (0,480);
+pos = (0,500);
 ref = a;
 scale = (1,-1);
 }

@@ -38,6 +38,7 @@ A tick means the font of this writing system is ready to use from this repositor
 
 - [X] Star Rail Script (Herta Space Station)
 - [X] Luofu Script
+- [ ] Amphoreus Script
 
 ### Honkai Impact 3<sup>rd</sup>
 
