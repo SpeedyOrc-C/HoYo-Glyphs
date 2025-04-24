@@ -16,6 +16,11 @@ If you want to track the updates on this repository, please click the eye icon (
 
 Please go to Release.
 
+### Metadata
+
+Thanks to @kuriyota for providing [metadata](https://github.com/kuriyota/HoYo-Glyphs-With-Meta).
+You might find this helpful if you're using the font on a website.
+
 ## Update Log & Known Issues
 
 Please go to Wiki.

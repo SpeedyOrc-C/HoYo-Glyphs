@@ -14,6 +14,10 @@
 
 请移步至 Release 查看。
 
+### 元数据
+
+感谢 @kuriyota 制作的[元数据](https://github.com/kuriyota/HoYo-Glyphs-With-Meta)。如果您想在网页中使用，可能会帮到你。
+
 ## 赞赏
 
 制作字体极其耗时间，虽然这里的字体皆是免费提供，如果觉得好用的话，就来赞赏我吧！
